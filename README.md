@@ -18,7 +18,7 @@ Elabore una lista de temas sobre los cuales le interesaría profundizar o invest
 
 -----
 
-En base a estos temas, valore se pertinencia de acuerdo a los contenidos abortados.
+En base a estos temas, valore su pertinencia de acuerdo a los contenidos abortados.
 
 Lo que se pretende abordar en:
 
@@ -28,7 +28,7 @@ El tema está relacionado con poner en práctica lo que hemos aprendido en clase
 
 - Community manager
     - Redes Sociales de éxito
-        - Tipo de público – funcionamiento
+    - Tipo de público – funcionamiento
     - Plan de marketing completo en Facebook
     - Aplicaciones virales para conseguir más fans
 - Ecommerce y negocios online
@@ -80,7 +80,13 @@ Concluimos en realizar la investigación de Seguridad Informática en el ámbito
 
 -----
 
+**Bibliografia**
+
+
+-----
+
 Nombres:
 
-Sander Alberto Pacheco H.
-Anselmo Orlando Flores Olivas.
+- Sander Alberto Pacheco H.
+- Anselmo Orlando Flores Olivas.
+- Jose Antonio Obregon Aguilar.
