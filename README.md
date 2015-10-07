@@ -4,9 +4,9 @@
 
 Elabore una lista sobre los temas que considere hayan sido objeto de investigación en el campo de su profesión.
 
-- Marketing
-- Desarrollo de software
-- Seguridad informática
+    - Marketing
+    - Desarrollo de software
+    - Seguridad informática
 
 -----
 
@@ -77,3 +77,10 @@ Seguridad informática nos fuerza a conocer de todo un poco para defendernos de 
 Validar al menos una de los temas analizados, con vistas a desarrollarlo.
 
 Concluimos en realizar la investigación de Seguridad Informática en el ámbito empresarial ya que traería gran beneficio conocer los riesgos a los que estamos expuestos.
+
+-----
+
+Nombres:
+
+Sander Alberto Pacheco H.
+Anselmo Orlando Flores Olivas.
