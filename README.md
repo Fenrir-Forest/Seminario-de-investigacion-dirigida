@@ -4,9 +4,9 @@
 
 Elabore una lista sobre los temas que considere hayan sido objeto de investigación en el campo de su profesión.
 
-    - Marketing
-    - Desarrollo de software
-    - Seguridad informática
+- Marketing
+- Desarrollo de software
+- Seguridad informática
 
 -----
 
@@ -28,7 +28,7 @@ El tema está relacionado con poner en práctica lo que hemos aprendido en clase
 
 - Community manager
     - Redes Sociales de éxito
-    - Tipo de público – funcionamiento
+        - Tipo de público – funcionamiento
     - Plan de marketing completo en Facebook
     - Aplicaciones virales para conseguir más fans
 - Ecommerce y negocios online
@@ -72,7 +72,7 @@ Seguridad informática nos fuerza a conocer de todo un poco para defendernos de 
     - Protección de datos
 - Ethical Hacking
 
------
+
 
 Validar al menos una de los temas analizados, con vistas a desarrollarlo.
 
@@ -82,6 +82,7 @@ Concluimos en realizar la investigación de Seguridad Informática en el ámbito
 
 **Bibliografia**
 
+[wikipedia](https://es.wikipedia.org/wiki/Seguridad_informática)
 
 -----
 
