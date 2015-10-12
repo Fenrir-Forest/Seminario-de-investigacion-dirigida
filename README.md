@@ -38,7 +38,7 @@ El tema está relacionado con poner en práctica lo que hemos aprendido en clase
 
 **Desarrollo de aplicaciones Hibridas**
 
-Para crear aplicaciones hibridas combinamos el conocimiento que he tenido de programación orientado a objeto, a base de datos y desarrollo de sitios web para ofrecer un producto nuevo.
+Para crear aplicaciones hibridas combinamos el conocimiento que he tenido de programación orientado a objeto, base de datos y desarrollo de sitios web para ofrecer un producto nuevo.
 
 - Tipos de aplicaciones
     - Ventajas – Desventajas
@@ -72,7 +72,7 @@ Seguridad informática nos fuerza a conocer de todo un poco para defendernos de 
     - Protección de datos
 - Ethical Hacking
 
-
+-----
 
 Validar al menos una de los temas analizados, con vistas a desarrollarlo.
 
@@ -90,4 +90,5 @@ Nombres:
 
 - Sander Alberto Pacheco H.
 - Anselmo Orlando Flores Olivas.
-- Jose Antonio Obregon Aguilar.
+- Jose Antonio Obregon Aguilar
+- Gersan Daniel Ruiz Navarro
